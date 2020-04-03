@@ -50,7 +50,7 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  four = ["what","totally","where","who"]
-four[1] = "que"
+  four = ["what","why","where","who"]
+four[1] = "totally"
 
 end
