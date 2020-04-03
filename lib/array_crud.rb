@@ -27,8 +27,8 @@ end
 
 def remove_element_from_start_of_array(array)
   four = ["wow","what","why","where","who"]
-  wow = four.shift
-    p four
+  woww = four.shift
+    p woww
 end
 
 def retrieve_element_from_index(array, index_number)
