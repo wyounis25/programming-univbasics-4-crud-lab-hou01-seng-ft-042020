@@ -22,7 +22,7 @@ end
 def remove_element_from_end_of_array(array)
   four = ["what","why","where","arrays!"]
   "arrays!" == four.pop
-    print four
+    puts four
 end
 
 def remove_element_from_start_of_array(array)
