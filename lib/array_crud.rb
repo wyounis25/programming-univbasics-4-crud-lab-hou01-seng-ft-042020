@@ -15,15 +15,14 @@ end
 
 def add_element_to_start_of_array(array, element)
 four = ["what","why","where","who"]
-  fourr.unshift("wow")
-  p fourr
-
+  four.unshift("wow")
+    p four
 end
 
 def remove_element_from_end_of_array(array)
   four = ["what","why","where","arrays!"]
-  "arrays!" == four.pop
-    puts four
+  arrayss! = four.pop
+    p arrayss!
 end
 
 def remove_element_from_start_of_array(array)
