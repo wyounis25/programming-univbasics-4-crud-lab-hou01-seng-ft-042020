@@ -46,11 +46,11 @@ end
 def retrieve_last_element_from_array(array)
   four = ["what","why","where","who","arrays!"]
   four[-1]
-    p four
+
 end
 
 def update_element_from_index(array, index_number, element)
   four = ["what","totally","where","who"]
 four[1] = "que"
-  p four
+
 end
