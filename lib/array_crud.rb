@@ -21,8 +21,8 @@ end
 
 def remove_element_from_end_of_array(array)
   four = ["what","why","where","arrays!"]
-  arrayss! = four.pop
-    p arrayss!
+  arrays_r = four.pop
+    p arrays_r
 end
 
 def remove_element_from_start_of_array(array)
